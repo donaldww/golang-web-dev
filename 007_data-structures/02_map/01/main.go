@@ -14,7 +14,8 @@ func init() {
 
 func main() {
 
-	//sages := map[string]string{"India":"Gandhi", "America":"MLK", "Meditate":"Buddha", "Love":"Jesus", "Prophet":"Muhammad"}
+	// sages := map[string]string{"India":"Gandhi", "America":"MLK", "Meditate":"Buddha", "Love":"Jesus",
+	// "Prophet":"Muhammad"}
 
 	sages := map[string]string{
 		"India":    "Gandhi",
